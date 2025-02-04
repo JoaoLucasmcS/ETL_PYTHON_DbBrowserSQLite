@@ -25,4 +25,6 @@ Classifica os produtos como "Caro" ou "Barato" com base no preço médio (superi
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 1. Rode o Programa:
+   ```bash
+   python pipeline.py
  Lembrando que para rodar o programa precisa ter instalado o DB Browser for SQLITE, para poder criar o banco lá e colocar os dados também.
